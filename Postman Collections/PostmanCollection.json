@@ -569,7 +569,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "NowaLista",
 			"id": "c49eb823-4579-4757-a6b6-cbf762fdcd6e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
